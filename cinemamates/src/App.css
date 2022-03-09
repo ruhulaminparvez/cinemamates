@@ -227,3 +227,9 @@ h1 {
         margin: 1rem;
     }
 }
+
+.footer {
+    color: #cedece;
+    font-size: 20px;
+    margin-top: 60px;
+}
