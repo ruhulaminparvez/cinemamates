@@ -1,5 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700");
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=Smooch+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Smooch+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 
 * {
     margin: 0;
@@ -8,8 +9,8 @@
 }
 
 :root {
-    --font-roboto: "Roboto Slab", serif;
-    --font-raleway: "Raleway", sans-serif;
+    --font-roboto: 'League Gothic', sans-serif;
+    --font-raleway: 'Smooch Sans', sans-serif;
 }
 
 body {
@@ -28,7 +29,7 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 4rem;
     letter-spacing: 0.9px;
     background: #abbaab;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
