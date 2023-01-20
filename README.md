@@ -9,5 +9,5 @@ This repo will store Basic to Advance learning codes and projects
 <br>
 <h2 align="center"> CinemaMates ScreenShot </h2>
 <h1 align="center">
-<img src="cinemamates/preview/CinemaMates.png" width="620"/>
+<img src="preview/CinemaMates.png" width="620"/>
 </h1>
